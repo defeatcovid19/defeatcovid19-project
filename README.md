@@ -71,3 +71,8 @@ Other tools such as Discord/Slack or Trello are great to be involved into the pr
 All the results obtained by **defeatcovid19** group are intended to be released free and open source to everyone. We are going to selct the most suitable license (Apache2, MIT, Common Creative) dependind on the content.
 
 Sharing knowledge with ease is a mandatory pillar fo this group and every participant is asked to accept and support it.
+
+##Code of conduct
+Please be nice. It's never the time to be rude, unpolite or non inclusive with people. Try to cope with stress and respond using compassion instead of hate.
+
+For a detailed review about which behavior we expect in this group, please read our [code of conduct](./CODE_OF_CONDUCT.md)
