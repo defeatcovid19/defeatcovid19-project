@@ -38,10 +38,10 @@ We're looking actively to onboard new coordinators for the tracks that aren't ac
 Currently we exploited:
 
 * [AI applications in Medical Imaging](./tracks/medical_imaging.md)
-* Statistical outbreak data analysis
-* Clinical data correlation to detect risk factors
-* Drug impact analysis and simulation
-* Using Maker tools to build equipment
+* Statistical outbreak data analysis (coordinator required)
+* Clinical data correlation to detect risk factors (coordinator required)
+* Drug impact analysis and simulation (coordinator required)
+* Using Maker tools to build equipment (coordinator required)
 
 ## Onboarding data
 Currently we're reaching out to a number of hospitals to obtain the data needed to support our group efforts. 
