@@ -48,7 +48,7 @@ Currently we're reaching out to a number of hospitals to obtain the data needed 
 
 Here there is [an updated list of contacted hospitals](./datasets/hospitals.md) and the status of every attempt.
 
-**Anyone that can push to speed up things or contact new hospitals, is heavily encouraged to do so and reach out directly to the [Support Team](support@defeatcovid19.org)**.
+**Anyone that can push to speed up things or contact new hospitals, is heavily encouraged to do so and reach out directly to the [Support Team](mailto:support@defeatcovid19.org)**.
 
 If a legal representative is required to sign request forms, we have a number of companies that are available to do this.
 
