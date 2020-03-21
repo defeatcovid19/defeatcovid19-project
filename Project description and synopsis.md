@@ -171,7 +171,8 @@ Expressed outcome and probability will be the two values ​​that can be integ
 
 
 
-
+<br>
+<br>
 <p style="font-size:10px">Neosperience SpA - Share capital: € 726,220.20 iv - Tax code and VAT number: 02792030989 25125
    Brescia, via Orzinuovi, 20 - Tel. +39 030 3537300 - Fax +39 030 3537343
    20129 Milan via Gaspare Gozzi, 1 / A - Tel . +39 02 36755690
