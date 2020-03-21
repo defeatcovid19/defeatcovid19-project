@@ -4,13 +4,13 @@
 The aim of this project is to join togheter all the contribution that people around the world can offer to help everyone to overcome the devastating outbreak of COVID19
 
 ## Contents
-* [The reason why we started this project](#why did we create this group)
-* [Who can partecipate](#who can partecipate)
+* [The reason why we started this project](#why-did-we-create-this-group)
+* [Who can partecipate](#who-can-partecipate)
 * [Contributors](#contributors)
-* [Working tracks](#working tracks)
-* [Onboarding data](#onboarding data)
+* [Working tracks](#working-tracks)
+* [Onboarding data](#onboarding-data)
 * [Tools](#tools)
-* [Results](#about results)
+* [Results](#about-results)
 
 ## Why did we create this group?
 Basically our idea is to share as much as possible, helping people all around the world to help in this fight. The group is (and will forever be) non-profit and inclusive to anyone willing to contribute or that can take benefts from our results.
