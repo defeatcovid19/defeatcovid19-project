@@ -13,7 +13,7 @@ The aim of this project is to join togheter all the contribution that people aro
 * [Results](#about-results)
 
 ## Why did we create this group?
-Basically our idea is to share as much as possible, helping people all around the world to help in this fight. The group is (and will forever be) non-profit and inclusive to anyone willing to contribute or that can take benefts from our results.
+Basically our idea is to share as much as possible, helping people all around the world to help in this fight. The group is (and will forever be) non-profit and inclusive to anyone willing to contribute or that can take benefits from our results.
 
 Read the [full story about how we came to this idea](./why_we_fight.md).
 
@@ -27,7 +27,7 @@ We outlined [a number of ways how different professionals could help](./who.md),
 ## Contributors and partners
 Since March 16th, when we published **defeatcovid19** website, a number of companies, professionals and people joined our mission. 
 
-We started as an open initiative promoted by [Neosperience](http://www.neosperience.com), [PoliMi](https://www.polimi.it/), [Looptribe](http://www.looptribe.com) and [ValueChina](https://valuechina.net/). Now we have more than 250 participants from the industrial, research and no profit world. Even companies offered support and technology. 
+We started as an open initiative promoted by [Neosperience](http://www.neosperience.com), [PoliMi](https://www.polimi.it/), [Looptribe](http://www.looptribe.com) and [ValueChina](https://valuechina.net/). Now we have more than 250 participants from the industrial, research and non profit world. Even companies offered support and technology. 
 
 We will publish a _**partners** (coming soon)_ section both here and on our website. If your company is supporting this project and wants to be listed, please [reach out to us](mailto:support@defeatcovid19.org).
 
