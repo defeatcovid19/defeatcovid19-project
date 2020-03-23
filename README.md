@@ -13,7 +13,7 @@ The aim of this project is to join togheter all the contribution that people aro
 * [Results](#about-results)
 
 ## Why did we create this group?
-Basically our idea is to share as much as possible, helping people all around the world to help in this fight. The group is (and will forever be) non-profit and inclusive to anyone willing to contribute or that can take benefts from our results.
+Basically our idea is to share as much as possible, helping people all around the world to help in this fight. The group is (and will forever be) non-profit and inclusive to anyone willing to contribute or that can take benefits from our results.
 
 Read the [full story about how we came to this idea](./why_we_fight.md).
 
@@ -27,7 +27,7 @@ We outlined [a number of ways how different professionals could help](./who.md),
 ## Contributors and partners
 Since March 16th, when we published **defeatcovid19** website, a number of companies, professionals and people joined our mission. 
 
-We started as an open initiative promoted by [Neosperience](http://www.neosperience.com), [PoliMi](https://www.polimi.it/), [Looptribe](http://www.looptribe.com) and [ValueChina](https://valuechina.net/). Now we have more than 250 participants from the industrial, research and no profit world. Even companies offered support and technology. 
+We started as an open initiative promoted by [Neosperience](http://www.neosperience.com), [PoliMi](https://www.polimi.it/), [Looptribe](http://www.looptribe.com) and [ValueChina](https://valuechina.net/). Now we have more than 250 participants from the industrial, research and non profit world. Even companies offered support and technology. 
 
 We will publish a _**partners** (coming soon)_ section both here and on our website. If your company is supporting this project and wants to be listed, please [reach out to us](mailto:support@defeatcovid19.org).
 
@@ -65,14 +65,14 @@ The best mix we found so far is:
 	* [defeatcovid19 project](https://github.com/defeatcovid19/defeatcovid19-project) containing all the references and information about the project. It should be considered the landing path for newcomers.
 	* [awesome defeatcovid19 resources](https://github.com/defeatcovid19/awesome-covid19-resources) containing a reference to the relevant information we fuound online
 
-Other tools such as Discord/Slack or Trello are great to be involved into the process, but we will adopt them accordingly to our capacity and the needs of the group.
+Other tools such as Discord/Slack or Trello are great to be involved into the process, but we will adopt them according to our capacity and the needs of the group.
 
 ## Group outcomes
-All the results obtained by **defeatcovid19** group are intended to be released free and open source to everyone. We are going to selct the most suitable license (Apache2, MIT, Common Creative) dependind on the content.
+All the results obtained by **defeatcovid19** group are intended to be released free and open source to everyone. We are going to selct the most suitable license (Apache2, MIT, Common Creative) depending on the content.
 
-Sharing knowledge with ease is a mandatory pillar fo this group and every participant is asked to accept and support it.
+Sharing knowledge with ease is a mandatory pillar for this group and every participant is asked to accept and support it.
 
 ## Code of conduct
 Please be nice. It's never the time to be rude, unpolite or non inclusive with people. Try to cope with stress and respond using compassion instead of hate.
 
-For a detailed review about which behavior we expect in this group, please read our [code of conduct](./CODE_OF_CONDUCT.md)
+For a detailed review about the behavior we expect in this group, please read our [code of conduct](./CODE_OF_CONDUCT.md)
