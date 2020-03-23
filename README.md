@@ -65,14 +65,14 @@ The best mix we found so far is:
 	* [defeatcovid19 project](https://github.com/defeatcovid19/defeatcovid19-project) containing all the references and information about the project. It should be considered the landing path for newcomers.
 	* [awesome defeatcovid19 resources](https://github.com/defeatcovid19/awesome-covid19-resources) containing a reference to the relevant information we fuound online
 
-Other tools such as Discord/Slack or Trello are great to be involved into the process, but we will adopt them accordingly to our capacity and the needs of the group.
+Other tools such as Discord/Slack or Trello are great to be involved into the process, but we will adopt them according to our capacity and the needs of the group.
 
 ## Group outcomes
-All the results obtained by **defeatcovid19** group are intended to be released free and open source to everyone. We are going to selct the most suitable license (Apache2, MIT, Common Creative) dependind on the content.
+All the results obtained by **defeatcovid19** group are intended to be released free and open source to everyone. We are going to selct the most suitable license (Apache2, MIT, Common Creative) depending on the content.
 
-Sharing knowledge with ease is a mandatory pillar fo this group and every participant is asked to accept and support it.
+Sharing knowledge with ease is a mandatory pillar for this group and every participant is asked to accept and support it.
 
 ## Code of conduct
 Please be nice. It's never the time to be rude, unpolite or non inclusive with people. Try to cope with stress and respond using compassion instead of hate.
 
-For a detailed review about which behavior we expect in this group, please read our [code of conduct](./CODE_OF_CONDUCT.md)
+For a detailed review about the behavior we expect in this group, please read our [code of conduct](./CODE_OF_CONDUCT.md)
