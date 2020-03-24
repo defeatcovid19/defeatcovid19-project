@@ -25,7 +25,7 @@ This is a live section with the updated state of onboarding
 | ASST degli spedali civili di Brescia |  Brescia, Italy |RX images of lungs (healthy, pneumonia and covid19 patients) | First contact | March, 16th 2020 |
 | Policlinico di Pavia |  Pavia, Italy |RX images of lungs (healthy, pneumonia and covid19 patients) | First contact | March, 16th 2020 |
 
-**Anyone that can push to speed up things or contact new hospitals, is heavily encouraged to do so and reach out directly to the [Support Team](support@defeatcovid19.org)**.
+**Anyone that can push to speed up things or contact new hospitals, is heavily encouraged to do so and reach out directly to the [Support Team](mailto:support@defeatcovid19.org)**.
 
 If a legal representative is required to sign request forms, we have a number of companies that are available to do this.
 
