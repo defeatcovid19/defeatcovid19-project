@@ -15,25 +15,25 @@
 
 - [Revisioni](#revisioni)
 - [Indice](#indice)
-- [Finalità del documento](#finalit--del-documento)
-- [Stato dell’arte](#stato-dell-arte)
-  * [Intelligenza Artificiale (AI) ed analisi clinica](#intelligenza-artificiale--ai--ed-analisi-clinica)
+- [Finalità del documento](#finalità-del-documento)
+- [Stato dell’arte](#stato-dellarte)
+  * [Intelligenza Artificiale (AI) ed analisi clinica](#intelligenza-artificiale-ai-ed-analisi-clinica)
   * [Screening e diagnosi dei pazienti affetti da COVID19](#screening-e-diagnosi-dei-pazienti-affetti-da-covid19)
 - [Sinossi degli studi](#sinossi-degli-studi)
-  * [Studio 1: Analisi di immagini radiologiche polmonari](#studio-1--analisi-di-immagini-radiologiche-polmonari)
+  * [Studio 1: Analisi di immagini radiologiche polmonari](#studio-1-analisi-di-immagini-radiologiche-polmonari)
     + [Obiettivi dello studio](#obiettivi-dello-studio)
     + [Popolazione dello studio](#popolazione-dello-studio)
     + [Periodo dello studio](#periodo-dello-studio)
     + [Dati analizzati](#dati-analizzati)
     + [Risultati attesi](#risultati-attesi)
-  * [Studio 2: Analisi di immagini ecografiche cardiache (e polmonari)](#studio-2--analisi-di-immagini-ecografiche-cardiache--e-polmonari-)
+  * [Studio 2: Analisi di immagini ecografiche cardiache (e polmonari)](#studio-2-analisi-di-immagini-ecografiche-cardiache-e-polmonari)
     + [Obiettivi dello studio](#obiettivi-dello-studio-1)
     + [Popolazione dello studio](#popolazione-dello-studio-1)
     + [Periodo dello studio](#periodo-dello-studio-1)
     + [Dati analizzati](#dati-analizzati-1)
     + [Risultati attesi](#risultati-attesi-1)
 - [Trattamento dei dati personali e dei risultati raggiunti](#trattamento-dei-dati-personali-e-dei-risultati-raggiunti)
-- [Notes](#notes)
+- [Note](#note)
 
 
 ## Finalità del documento
@@ -151,9 +151,10 @@ I risultati degli studi condotti andranno a supporto gratuito di tutto il person
 
 Neosperience S.p.A si fa garante del trattamento dei dati utilizzati e raccolti durante lo studio.
 
-## Notes
+## Note
 1. <b id="f1">[^](#a1)</b> S. Chen *et al.*, "Automatic Scoring of Multiple Semantic Attributes With Multi-Task Feature Leverage: A Study on Pulmonary Nodules in CT Images," in *IEEE Transactions on Medical Imaging*, vol. 36, no. 3, pp. 802-814, March 2017.
 2. <b id="f2">[^](#a2)</b> Y. Chunran, W. Yuanvuan and G. Yi, "Automatic Detection and Segmentation of Lung Nodule on CT Images," *2018 11th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI)*, Beijing, China, 2018 , pp. 1-6.
 3. <b id="f3">[^](#a3)</b> G. Nalbantov, A. Dekker, D. De Ruysscher, P. Lambin and EN Smirnov, "The Combination of Clinical, Dose-Related and Imaging Features Helps Predict Radiation-Induced Normal-Tissue Toxicity in Lung-cancer Patients - An in-silico Trial Using Machine Learning Techniques" *2011 10th International Conference on Machine Learning and Applications and Workshops*, Honolulu, HI, 2011, pp. 220-224.
 4. <b id="f4">[^](#a4)</b> [https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/](https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/)
 5. <b id="f5">[^](#a5)</b> Y. Liang, R. He, Y. Li and Z. Wang, "Simultaneous segmentation and classification of breast lesions from ultrasound images using Mask R-CNN," 2019 *IEEE International Ultrasonics Symposium (IUS)*, Glasgow, United Kingdom, 2019, pp. 1470-1472.
+6. <b id="f6">[^](#a6)</b> L. Zhang, H. Zhu and T. Yang, "Deep Neural Networks for fatty liver ultrasound images classification," *2019 Chinese Control And Decision Conference (CCDC)*, Nanchang, China, 2019, pp. 4641-4646.

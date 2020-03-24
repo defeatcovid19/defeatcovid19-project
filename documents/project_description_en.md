@@ -18,16 +18,16 @@
 - [Index](#index)
 - [Purpose of the document](#purpose-of-the-document)
 - [State of the art](#state-of-the-art)
-  * [Artificial Intelligence (AI) and clinical analysis](#artificial-intelligence--ai--and-clinical-analysis)
+  * [Artificial Intelligence (AI) and clinical analysis](#artificial-intelligence-ai-and-clinical-analysis)
   * [Screening and diagnosis of patients with COVID19](#screening-and-diagnosis-of-patients-with-covid19)
 - [Synopsis of the studies](#synopsis-of-the-studies)
-  * [Study 1: Analysis of pulmonary radiological images](#study-1--analysis-of-pulmonary-radiological-images)
+  * [Study 1: Analysis of pulmonary radiological images](#study-1-analysis-of-pulmonary-radiological-images)
     + [Objectives of the study](#objectives-of-the-study)
     + [Study Population](#study-population)
     + [Period of study](#period-of-study)
     + [Analyzed data](#analyzed-data)
     + [Expected results](#expected-results)
-  * [Study 2: Analysis of cardiac (and lung) ultrasound images](#study-2--analysis-of-cardiac--and-lung--ultrasound-images)
+  * [Study 2: Analysis of cardiac (and lung) ultrasound images](#study-2-analysis-of-cardiac-and-lung-ultrasound-images)
     + [Objectives of the study](#objectives-of-the-study-1)
     + [Study Population](#study-population-1)
     + [Study period](#study-period)
@@ -131,3 +131,4 @@ Expressed outcome and probability will be the two values ​​that can be integ
 3. <b id="f3">[^](#a3)</b> G. Nalbantov, A. Dekker, D. De Ruysscher, P. Lambin and EN Smirnov, "The Combination of Clinical, Dose-Related and Imaging Features Helps Predict Radiation-Induced Normal-Tissue Toxicity in Lung-cancer Patients - An in-silico Trial Using Machine Learning Techniques" *2011 10th International Conference on Machine Learning and Applications and Workshops*, Honolulu, HI, 2011, pp. 220-224.
 4. <b id="f4">[^](#a4)</b> [https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/](https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/)
 5. <b id="f5">[^](#a5)</b> Y. Liang, R. He, Y. Li and Z. Wang, "Simultaneous segmentation and classification of breast lesions from ultrasound images using Mask R-CNN," 2019 *IEEE International Ultrasonics Symposium (IUS)*, Glasgow, United Kingdom, 2019, pp. 1470-1472.
+6. <b id="f6">[^](#a6)</b> L. Zhang, H. Zhu and T. Yang, "Deep Neural Networks for fatty liver ultrasound images classification," *2019 Chinese Control And Decision Conference (CCDC)*, Nanchang, China, 2019, pp. 4641-4646.
