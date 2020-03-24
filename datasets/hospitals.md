@@ -29,4 +29,7 @@ This is a live section with the updated state of onboarding
 
 If a legal representative is required to sign request forms, we have a number of companies that are available to do this.
 
-We used this [project brief and summary (at the moment in Italian-only)](https://docs.google.com/document/d/1Q6v2beQ4BTjvRMw0Lr2VQnJndkBGLhabcvrL8u97Ct0/edit#) to describe the project. You may find it useful as outline to contact your local hospitals.
+We have the following docs available that can be used as template for formal requests to your local hospitals.
+- [Project description and synopsis](https://docs.google.com/document/d/1welm3aLzyXJG-IO2ueHCmJhxm1QK2MNqfq2FT7PBtEo/edit#heading=h.1fob9te)
+- [Descrizione progetto e sinossi (Italiano)](https://docs.google.com/document/d/1Q6v2beQ4BTjvRMw0Lr2VQnJndkBGLhabcvrL8u97Ct0/edit#)
+- [Documento per richiesta formale a Comitato Etico (Italiano)](https://docs.google.com/document/d/11VPRsGtBRrEgcsaaKSzmRZJaMycqyEEZEmhGlGUh21s/edit)
