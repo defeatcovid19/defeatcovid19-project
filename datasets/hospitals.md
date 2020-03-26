@@ -32,7 +32,6 @@ This is a live section with the updated state of onboarding
 | IRCCS Cà Granda Ospedale Maggiore Policlinico |Milano, Italy | RX, CD | 4 | March, 25th 2020 |
 | IRCCS Cà Granda Ospedale Maggiore Policlinico |Milano, Italy | RX, CD | 4 | March, 17th 2020 |
 | Ospedale Auxologico San Luca | Milano, Italy | RX, CD | 4 | March, 17th 2020 |
-| Ospegale San Paolo | Milano, Italy | RX, CD | 1 | March, 23rd 2020 |
 | Policlinico di Pavia | Pavia, Italy | RX, CD | 3 | March, 23rd 2020 |
 | IRCCS Maugeri |Pavia, Italy | RX, CD | 3 | March, 26th 2020 |
 | ASST degli spedali civili di Brescia |  Brescia, Italy | RX, CD | 3 | March, 26th 2020 |
@@ -42,6 +41,7 @@ This is a live section with the updated state of onboarding
 | ASST Papa Giovanni XXII |Bergamo, Italy | RX, CD | 1 | March, 23rd 2020 |
 | IRCCS Ospedale San Raffaele |Milano, Italy | RX, CD | 1 | March, 23rd 2020 |
 | ASST Grande Ospedale Metropolitano Niguarda | Milano, Italy | RX, CD | 1 | March, 19th 2020 |
+| Ospedale San Paolo | Milano, Italy | RX, CD | 1 | March, 23rd 2020 |
 
 **Anyone that can push to speed up things or contact new hospitals, is heavily encouraged to do so and reach out directly to the [Support Team](mailto:support@defeatcovid19.org)**.
 
