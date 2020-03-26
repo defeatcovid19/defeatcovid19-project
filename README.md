@@ -1,7 +1,9 @@
 # Welcome to defeatcovid19 Group
 > Our goal is to **help** doctors and people, **share** knowledge across cities and countries to finally **#defeatcovid19**
 
-The aim of this project is to join togheter all the contribution that people around the world can offer to help everyone to overcome the devastating outbreak of COVID19
+The aim of this project is to join togheter all the contribution that people around the world can offer to help everyone to overcome the devastating outbreak of COVID19.
+
+Read also the [onboarding message](./documents/welcome_message.md) of Luca, one of the founders of the group.
 
 ## Contents
 * [The reason why we started this project](#why-did-we-create-this-group)
@@ -51,6 +53,12 @@ Here there is [an updated list of contacted hospitals](./datasets/hospitals.md) 
 **Anyone that can push to speed up things or contact new hospitals, is heavily encouraged to do so and reach out directly to the [Support Team](mailto:support@defeatcovid19.org)**.
 
 If a legal representative is required to sign request forms, we have a number of companies that are available to do this.
+
+You can custimize the following document templates to be sent out to hospitals and other potential partners:
+
+* [Project description (in English)](./documents/project_description_en.md)
+* [Project description (in Italian)](./documents/project_description_it.md)
+* [Presentation letter to the ethic committee of Italian hospitals (in Italian)](./documents/presentation_letter_it.md)
 
 ## Tools
 We discussed a lot about which tools were better than others to support our efforts (_disclaimer_: many of us are engineers, so we _love_ discussing about tools).
