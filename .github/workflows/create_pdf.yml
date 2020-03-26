@@ -1,0 +1,22 @@
+name: CI
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  create_pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - uses: mrtj/actions-makepdfs@master
+        if: github.ref == 'refs/heads/master'
+        with:
+          markdown_dir: documents
+          assets_dir: document_assets
+      - uses: actions/upload-artifact@v1
+        with:
+          name: documents
+          path: tmp
