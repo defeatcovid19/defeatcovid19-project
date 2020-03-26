@@ -17,6 +17,7 @@ jobs:
         if: github.ref == 'refs/heads/master'
         with:
           markdown_dir: documents
+          assets_dir: document_assets
       - uses: actions/upload-artifact@v1
         with:
           name: documents
