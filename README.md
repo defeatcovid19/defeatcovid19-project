@@ -72,6 +72,7 @@ The best mix we found so far is:
 * **[Github organization](https://github.com/defeatcovid19)** that is going to store all the project stuff, and many relted repositories. Now we have:
 	* [defeatcovid19 project](https://github.com/defeatcovid19/defeatcovid19-project) containing all the references and information about the project. It should be considered the landing path for newcomers.
 	* [awesome defeatcovid19 resources](https://github.com/defeatcovid19/awesome-covid19-resources) containing a reference to the relevant information we fuound online
+	* [A model trained on public data](https://github.com/defeatcovid19/defeatcovid19-net-pytorch) containing our first trained model (~0.8 ROC AUC score)
 
 Other tools such as Discord/Slack or Trello are great to be involved into the process, but we will adopt them according to our capacity and the needs of the group.
 
