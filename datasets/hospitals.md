@@ -28,7 +28,7 @@ This is a live section with the updated state of onboarding
 
 | Institute | Location |Requested data |  Status | Last update |
 |---| ---| ---| --- | ---|
-| ASST FBF Sacco | Milano, Italy |  RX, ECOH, CD | 5 | March, 25th 2020 |
+| ASST FBF Sacco | Milano, Italy |  RX, ECOH, CD | 4 | March, 25th 2020 |
 | IRCCS Cà Granda Ospedale Maggiore Policlinico |Milano, Italy | RX, CD | 4 | March, 25th 2020 |
 | IRCCS Cà Granda Ospedale Maggiore Policlinico |Milano, Italy | RX, CD | 4 | March, 17th 2020 |
 | Ospedale Auxologico San Luca | Milano, Italy | RX, CD | 4 | March, 17th 2020 |
@@ -37,7 +37,7 @@ This is a live section with the updated state of onboarding
 | ASST degli spedali civili di Brescia |  Brescia, Italy | RX, CD | 3 | March, 26th 2020 |
 | Ospedale Santo Spirito |Casale Monferrato (AL), Italy | RX, CD | 3 | March, 23rd 2020 |
 | Ospedale di Alessandria |Alessandria, Italy | RX, CD | 2 | March, 23rd 2020 |
-| Istituto Clinico Beato Matteo |Vigevano (PV), Italy | RX, CD | 2 | March, 23rd 2020 |
+| Istituto Clinico Beato Matteo |Vigevano (PV), Italy | RX, CD | 3 | March, 23rd 2020 |
 | ASST Papa Giovanni XXII |Bergamo, Italy | RX, CD | 1 | March, 23rd 2020 |
 | IRCCS Ospedale San Raffaele |Milano, Italy | RX, CD | 1 | March, 23rd 2020 |
 | ASST Grande Ospedale Metropolitano Niguarda | Milano, Italy | RX, CD | 1 | March, 19th 2020 |
