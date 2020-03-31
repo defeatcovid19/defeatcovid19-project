@@ -16,7 +16,7 @@ jobs:
         with:
           markdown_dir: documents
           assets_dir: document_assets
-      - uses: actions/upload-artifact@v1
+      - uses: actions/upload-artifact@v2-preview
         with:
           name: documents
           path: tmp
